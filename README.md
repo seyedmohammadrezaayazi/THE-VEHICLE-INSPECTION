@@ -112,7 +112,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
   Seyed Mohammadreza Ayazi
-  Simulation Developer and Operations Management Enthusiast.
+
 
 If you have any questions or suggestions, feel free to open an issue or contact me.
 

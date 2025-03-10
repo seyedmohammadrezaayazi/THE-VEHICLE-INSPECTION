@@ -103,11 +103,6 @@ The simulation tracks the following key performance indicators (KPIs):
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## Author
 

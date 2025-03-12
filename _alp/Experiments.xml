@@ -54,6 +54,6 @@
 			<FinalDate>1743278400000</FinalDate>
 			<FinalTime>30000.0</FinalTime>
 		</ModelTimeProperties>
-		<BypassInitialScreen>true</BypassInitialScreen>
+		<BypassInitialScreen>false</BypassInitialScreen>
 	</SimulationExperiment>
 </Experiments>

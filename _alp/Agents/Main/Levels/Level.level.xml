@@ -353,7 +353,7 @@
 			<Id>1741542734207</Id>
 			<Expression>my_dataset2</Expression>
 			<Color>-65536</Color>
-			<Expression2>all_vehicles-pass_vehicles</Expression2>
+			<Expression2>getFailVehicles()</Expression2>
 			<Expression2Flag>true</Expression2Flag>
 			<PointStyle>NONE</PointStyle>
 			<LineWidth>4.0</LineWidth>

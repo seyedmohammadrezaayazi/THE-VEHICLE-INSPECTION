@@ -95,6 +95,7 @@
 	<CurrentLevel>1741542556465</CurrentLevel>
 	<ConnectionsId>1741542556459</ConnectionsId>
 	<Variables xmlns:al="http://anylogic.com"/>
+	<Functions xmlns:al="http://anylogic.com"/>
 	<Schedules>
 		<Schedule>
 			<Id>1741542734245</Id>
